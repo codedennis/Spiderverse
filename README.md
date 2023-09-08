@@ -91,7 +91,7 @@ Agora você está pronto para explorar o projeto em seu ambiente local!
 
 [Live Criando um carrossel parallax do Aranhaverso.pdf](https://github.com/digitalinnovationone/spiderverse/files/12098974/Live.Criando.um.carrossel.parallax.do.Aranhaverso.67a818e32c2049d39d28ce4a185555c4.pdf)
 
-## 👩‍💻 Desenvolvedor
+## 👨🏻‍💻 Desenvolvedor
 
 <p>
     <img align=left margin=10 width=80 src="https://github.com/codedennis/codedennis/assets/59423597/685ef6f7-4dd9-403d-8f2a-fccd04f5d0c9"/>
